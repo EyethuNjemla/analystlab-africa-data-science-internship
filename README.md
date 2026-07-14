@@ -43,7 +43,7 @@ Additional tools introduced later in the internship:
 
 | Week | Topic | Status |
 |------|------|------|
-| Week 1–2 | Data Cleaning & Exploratory Data Analysis |  In Progress |
+| Week 1–2 | Data Cleaning & Exploratory Data Analysis |  Complete |
 | Week 3 | Statistics & Probability |  Coming Soon |
 | Week 4 | Supervised Machine Learning |  Coming Soon |
 | Week 5 | Advanced Machine Learning |  Coming Soon |
